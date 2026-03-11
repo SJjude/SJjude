@@ -1,192 +1,189 @@
-Santhirakumar Jude
+# 👋 Hi, I'm Santhirakumar Jude
 
-AI / Machine Learning Engineer | Data Scientist
-LLM Applications | RAG Systems | Python | FastAPI | Generative AI
+💡 **AI / Machine Learning Engineer | Data Scientist**
+🤖 **LLM Applications | RAG Systems | Python | FastAPI | Generative AI**
 
-I am an AI Engineer focused on building intelligent applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Machine Learning systems. I enjoy building real-world AI solutions such as chatbots, AI assistants, automation systems, and data-driven applications.
+I build intelligent applications using **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Machine Learning systems**.
 
-About Me
+I enjoy developing real-world AI solutions such as **AI assistants, chatbots, automation systems, and data-driven applications**.
 
-AI / Machine Learning Engineer with experience in LLM applications and RAG pipelines
+---
 
-Built AI-powered chatbots and multi-agent systems
+# 👨‍💻 About Me
 
-Experience in vector databases, embeddings, and transformer models
+* 🤖 AI / Machine Learning Engineer experienced in **LLM applications and RAG pipelines**
+* 💬 Built **AI-powered chatbots and multi-agent systems**
+* 🧠 Experience with **vector databases, embeddings, and transformer models**
+* ⚙️ Developed **AI backend services using Python and FastAPI**
+* 🚀 Interested in building **scalable AI systems and intelligent applications**
 
-Developed AI backends using Python and FastAPI
+### 🎯 Currently Open To
 
-Interested in building scalable AI systems and intelligent applications
+* AI Engineer
+* Machine Learning Engineer
+* Data Scientist
+* LLM Engineer
 
-I am currently looking for opportunities as:
+---
 
-AI Engineer
+# 🛠 Technical Skills
 
-Machine Learning Engineer
+### 💻 Programming
 
-Data Scientist
+* Python
+* JavaScript
+* SQL
 
-LLM Engineer
+### 🤖 AI / Machine Learning
 
-Technical Skills
+* PyTorch
+* TensorFlow
+* Scikit-learn
+* Hugging Face Transformers
 
-Programming
+### 🧠 LLM & Generative AI
 
-Python
-JavaScript
-SQL
+* Retrieval-Augmented Generation (RAG)
+* LangChain
+* LangGraph
+* Prompt Engineering
+* LLM Fine-Tuning (LoRA / PEFT)
 
-AI / Machine Learning
+### 🗄 Vector Databases
 
-PyTorch
-TensorFlow
-Scikit-learn
-Hugging Face Transformers
+* ChromaDB
+* MongoDB Atlas Vector Search
+* Sentence Transformers
 
-LLM & Generative AI
+### ⚙️ Backend Development
 
-Retrieval-Augmented Generation (RAG)
-LangChain
-LangGraph
-Prompt Engineering
-LLM Fine-Tuning (LoRA / PEFT)
+* FastAPI
+* Flask
+* REST APIs
+* Pydantic
 
-Vector Databases
+### 🌐 Web Development
 
-ChromaDB
-MongoDB Atlas Vector Search
-Sentence Transformers
+* React.js
+* Node.js
+* Express.js
+* MERN Stack
 
-Backend Development
+### 🔗 Automation & Integration
 
-FastAPI
-Flask
-REST APIs
-Pydantic
+* n8n Workflow Automation
+* WhatsApp API Integration
 
-Web Development
+---
 
-React.js
-Node.js
-Express.js
-MERN Stack
+# 🚀 Projects
 
-Automation
+## 📚 AI-Powered Learning Assistant
 
-n8n
-WhatsApp API Integration
+**LLM RAG | Python | ChromaDB | OCR**
 
-Projects
-AI-Powered Learning Assistant
+AI assistant that answers questions from **reference books using Retrieval-Augmented Generation**.
 
-LLM RAG | Python | ChromaDB | OCR
+**Features**
 
-Built an AI assistant that answers questions from reference books using Retrieval-Augmented Generation.
+* 📄 Extracts **text, tables, and images from PDFs**
+* 🔍 Uses **OCR and image captioning**
+* 🧠 Generates **vector embeddings for semantic search**
+* 🤖 Fine-tuned **OPT-1.3B transformer model using LoRA**
+* 💬 Chat interface for student learning
 
-Features:
+---
 
-Extracts text, tables, and images from PDFs
+## 🤖 Multi-Agent Chatbot System
 
-Uses OCR and image captioning
+**React | Python | Gemini LLM | LangChain**
 
-Generates vector embeddings for semantic search
+Conversational AI platform powered by **multiple AI agents**.
 
-Fine-tuned OPT-1.3B transformer model using LoRA
+**Features**
 
-Chat interface for student learning
+* 🧩 Task-based agent workflows
+* 🧠 LangChain reasoning system
+* ⚛️ React frontend + Python backend
+* 💬 Context-aware AI conversations
 
-Multi-Agent Chatbot System
+---
 
-React | Python | Gemini LLM | LangChain
+## 🛒 AI Smart Shopping Data Engine
 
-Built a conversational chatbot platform with multiple AI agents.
+**Python | FastAPI | Playwright | Selenium | OpenAI**
 
-Features:
+AI system for **collecting and analyzing product data from multiple marketplaces**.
 
-Task-based agent workflows
+**Features**
 
-LangChain-based reasoning system
+* 🌐 Automated product data scraping
+* ⚙️ FastAPI backend services
+* 🤖 AI-based product comparison
+* 📊 Data analysis using LLMs
 
-React frontend and Python backend
+---
 
-Context-aware conversational responses
+## 🏕 YelpCamp Clone (Full Stack)
 
-AI Smart Shopping Data Engine
-
-Python | FastAPI | Playwright | Selenium | OpenAI
-
-Built a data engine to collect and analyze product information.
-
-Features:
-
-Automated product data scraping
-
-FastAPI backend services
-
-AI-based product comparison and normalization
-
-Data analysis using LLMs
-
-YelpCamp Clone (Full Stack)
-
-Node.js | Express | MongoDB | Cloudinary
+**Node.js | Express | MongoDB | Cloudinary**
 
 Full-stack campground review platform.
 
-Features:
+**Features**
 
-User authentication
+* 🔐 User authentication
+* ☁️ Image uploads and cloud storage
+* 🔗 RESTful APIs
+* 📝 Campground listings and reviews
 
-Image uploads and cloud storage
+---
 
-RESTful APIs
+# 💼 Experience
 
-Campground listing and review system
+### Machine Learning Engineer Trainee
 
-Experience
+🏢 **Cybernetic Technologies (Pvt) Ltd**
+📅 Aug 2025 – Feb 2026
 
-Machine Learning Engineer Trainee
-Cybernetic Technologies (Pvt) Ltd
-Aug 2025 – Feb 2026
+* Developed **LLM-powered chatbot systems** using Gemini and LangChain
+* Built **FastAPI backend services for AI applications**
+* Designed **multi-agent workflows using LangGraph**
+* Integrated chatbot systems with **MySQL databases**
+* Collaborated with frontend teams to deploy **React chatbot interfaces**
 
-Developed AI chatbot systems using Gemini LLM and LangChain
+---
 
-Built FastAPI backend services for AI applications
+# 🎓 Education
 
-Designed multi-agent workflows using LangGraph
-
-Integrated chatbot systems with MySQL databases
-
-Worked with frontend teams to deploy React-based chatbot interfaces
-
-Education
-
-Bachelor of Science in Computer Science
+🎓 **Bachelor of Science in Computer Science**
 Eastern University of Sri Lanka
-GPA: 3.1 / 4.0
 
-Relevant Subjects:
+📊 **GPA:** 3.1 / 4.0
 
-Machine Learning
+**Relevant Coursework**
 
-Artificial Intelligence
+* Machine Learning
+* Artificial Intelligence
+* Data Mining
+* Database Systems
+* Computer Networks
 
-Data Mining
+---
 
-Database Systems
+# 📜 Certifications
 
-Computer Networks
+* Claude Code in Action — Anthropic
+* The Web Developer Bootcamp — Udemy
+* Front-End Developer with Angular — SoloLearn
 
-Certifications
+---
 
-Claude Code in Action – Anthropic
-The Web Developer Bootcamp – Udemy
-Front-End Developer with Angular – SoloLearn
+# 📫 Connect With Me
 
-Connect With Me
+💻 GitHub
+🔗 LinkedIn
+🌐 Portfolio
+🧠 LeetCode
 
-GitHub
-LinkedIn
-Portfolio
-LeetCode
-
-Email: jjude336@gmail.com
+📧 **Email:** [jjude336@gmail.com](mailto:jjude336@gmail.com)
